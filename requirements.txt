@@ -3,7 +3,7 @@ tgcrypto
 requests
 pyromod
 certifi
-charset-normalize==3.1.0
+charset-normalize==3.3.2
 idna
 mutagen
 pyaes
